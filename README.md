@@ -1,4 +1,4 @@
 # Pullreq
 Pull request repository
 
-echo "welcome"
+echo "welcome to github"
